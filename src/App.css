@@ -2,3 +2,12 @@
 @plugin "daisyui";
 
 
+.btn, .input {
+    transition: all 0.3s ease;
+    transform: translateZ(0);
+}
+  
+
+.backdrop-blur-xl {
+    transform: translateZ(0);
+}

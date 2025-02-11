@@ -10,9 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@motionone/solid": "^10.16.4",
     "@radix-ui/themes": "^3.2.0",
     "@tailwindcss/vite": "^4.0.3",
     "framer-motion": "^12.4.1",
+    "gasp": "^0.0.2",
+    "gsap": "^3.12.7",
     "next-auth": "^4.24.11",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
